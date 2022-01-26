@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/estudandoForm/static/css/main.9345b6e2.css",
+    "main.js": "/estudandoForm/static/js/main.32f2dd1b.js",
+    "index.html": "/estudandoForm/index.html",
+    "main.9345b6e2.css.map": "/estudandoForm/static/css/main.9345b6e2.css.map",
+    "main.32f2dd1b.js.map": "/estudandoForm/static/js/main.32f2dd1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.32f2dd1b.js"
+  ]
+}
